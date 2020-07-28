@@ -59,7 +59,7 @@ class _MyHomePageState extends State<MyHomePage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Demo Braspag Silent Order Post'),
+        title: Text('Demo Braspag Verify Card'),
         centerTitle: true,
       ),
       body: DefaultTextStyle(
